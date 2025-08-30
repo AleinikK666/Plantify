@@ -1,0 +1,2 @@
+# Plantify
+App for gardeners
