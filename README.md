@@ -15,7 +15,7 @@ Plantify — мобильное приложение для ухода за ра
    ```
 3. Перейдите в папку проекта:
    ```bash
-   cd Plantify-iOS-application.git/plantify
+   cd Plantify.git/plantify
    ```
 4. Откройте файл `plantify.xcodeproj` в Xcode.
 5. Нажмите "Build and Run" или используйте симулятор iOS.
