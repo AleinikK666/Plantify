@@ -1,0 +1,120 @@
+
+/* Class = "UITextField"; placeholder = "choose city"; ObjectID = "02c-1u-vQj"; */
+"02c-1u-vQj.placeholder" = "choose city";
+
+/* Class = "UILabel"; text = "Add plants"; ObjectID = "0HM-vM-Ha2"; */
+"0HM-vM-Ha2.text" = "Add plants";
+
+/* Class = "UISegmentedControl"; 49b-Gb-MU0.segmentTitles[0] = "sign in"; ObjectID = "49b-Gb-MU0"; */
+"49b-Gb-MU0.segmentTitles[0]" = "sign in";
+
+/* Class = "UISegmentedControl"; 49b-Gb-MU0.segmentTitles[1] = "sign up"; ObjectID = "49b-Gb-MU0"; */
+"49b-Gb-MU0.segmentTitles[1]" = "sign up";
+
+/* Class = "UIButton"; normalTitle = "Check progress!"; ObjectID = "4ES-i7-5sn"; */
+"4ES-i7-5sn.normalTitle" = "Check progress!";
+
+/* Class = "UILabel"; text = "description"; ObjectID = "9L7-3K-LPd"; */
+"9L7-3K-LPd.text" = "description";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "BKL-0k-DPt"; */
+"BKL-0k-DPt.text" = "Location";
+
+/* Class = "UITextField"; placeholder = "login"; ObjectID = "BYv-zD-40p"; */
+"BYv-zD-40p.placeholder" = "login";
+
+/* Class = "UILabel"; text = "weather"; ObjectID = "Cld-oY-EfK"; */
+"Cld-oY-EfK.text" = "weather";
+
+/* Class = "UIButton"; normalTitle = "view map"; ObjectID = "EkP-vz-U6n"; */
+"EkP-vz-U6n.normalTitle" = "view map";
+
+/* Class = "UIButton"; normalTitle = "sign up"; ObjectID = "Enx-ha-080"; */
+"Enx-ha-080.normalTitle" = "sign up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fsp-3x-k0m"; */
+"Fsp-3x-k0m.text" = "Label";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "Hnu-fz-dDg"; */
+"Hnu-fz-dDg.text" = "Size";
+
+/* Class = "UITextField"; placeholder = "repeat password"; ObjectID = "HpS-CG-aEw"; */
+"HpS-CG-aEw.placeholder" = "repeat password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IHk-1A-AOs"; */
+"IHk-1A-AOs.text" = "Label";
+
+/* Class = "UISegmentedControl"; ILj-18-TAa.segmentTitles[0] = "my plants"; ObjectID = "ILj-18-TAa"; */
+"ILj-18-TAa.segmentTitles[0]" = "my plants";
+
+/* Class = "UISegmentedControl"; ILj-18-TAa.segmentTitles[1] = "add plant"; ObjectID = "ILj-18-TAa"; */
+"ILj-18-TAa.segmentTitles[1]" = "add plant";
+
+/* Class = "UILabel"; text = "PART OF PROGRESS!"; ObjectID = "JWi-id-klj"; */
+"JWi-id-klj.text" = "PART OF PROGRESS!";
+
+/* Class = "UITextField"; placeholder = "login"; ObjectID = "QQe-Np-dOQ"; */
+"QQe-Np-dOQ.placeholder" = "login";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "Wca-zJ-h9s"; */
+"Wca-zJ-h9s.placeholder" = "password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YLF-bm-s7J"; */
+"YLF-bm-s7J.text" = "Label";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "Z7V-tL-bC9"; */
+"Z7V-tL-bC9.text" = "text";
+
+/* Class = "UITextField"; placeholder = "search plants"; ObjectID = "c7u-Qk-ABW"; */
+"c7u-Qk-ABW.placeholder" = "search plants";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "cAc-CK-BTR"; */
+"cAc-CK-BTR.text" = "text";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "cSr-9w-KDt"; */
+"cSr-9w-KDt.text" = "Humidity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "efc-Sz-aB5"; */
+"efc-Sz-aB5.text" = "Label";
+
+/* Class = "UISegmentedControl"; emo-MS-xRy.segmentTitles[0] = "sign in"; ObjectID = "emo-MS-xRy"; */
+"emo-MS-xRy.segmentTitles[0]" = "sign in";
+
+/* Class = "UISegmentedControl"; emo-MS-xRy.segmentTitles[1] = "sign up"; ObjectID = "emo-MS-xRy"; */
+"emo-MS-xRy.segmentTitles[1]" = "sign up";
+
+/* Class = "UIButton"; normalTitle = "sign in"; ObjectID = "erk-JZ-b4u"; */
+"erk-JZ-b4u.normalTitle" = "sign in";
+
+/* Class = "UILabel"; text = "plantName"; ObjectID = "f1Q-mn-gmo"; */
+"f1Q-mn-gmo.text" = "plantName";
+
+/* Class = "UILabel"; text = "My plants"; ObjectID = "fuJ-c3-wo8"; */
+"fuJ-c3-wo8.text" = "My plants";
+
+/* Class = "UITextField"; placeholder = "address town"; ObjectID = "iAP-wI-sW6"; */
+"iAP-wI-sW6.placeholder" = "address town";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j9j-lu-MsR"; */
+"j9j-lu-MsR.text" = "Label";
+
+/* Class = "UILabel"; text = "Water"; ObjectID = "quQ-KX-yVQ"; */
+"quQ-KX-yVQ.text" = "Water";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "rIW-Qv-85P"; */
+"rIW-Qv-85P.placeholder" = "password";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "rTr-HT-Akt"; */
+"rTr-HT-Akt.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vAX-W5-ab7"; */
+"vAX-W5-ab7.text" = "Label";
+
+/* Class = "UISegmentedControl"; wvx-ko-2A0.segmentTitles[0] = "my plants"; ObjectID = "wvx-ko-2A0"; */
+"wvx-ko-2A0.segmentTitles[0]" = "my plants";
+
+/* Class = "UISegmentedControl"; wvx-ko-2A0.segmentTitles[1] = "add plant"; ObjectID = "wvx-ko-2A0"; */
+"wvx-ko-2A0.segmentTitles[1]" = "add plant";
+
+/* Class = "UILabel"; text = "Care guide"; ObjectID = "y88-IV-pMT"; */
+"y88-IV-pMT.text" = "Care guide";

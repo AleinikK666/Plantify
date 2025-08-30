@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>plants_a</key>
+	<array/>
+	<key>plants_ad</key>
+	<array>
+		<string>Money tree</string>
+		<string>Zanzibar gem</string>
+		<string>Philodron brasil</string>
+		<string>Fiddle leaf figs</string>
+		<string>Peperomia obtusifolia</string>
+		<string>Bird of paradise</string>
+	</array>
+	<key>plants_alex</key>
+	<array>
+		<string>Philodron brasil</string>
+		<string>Philodron brasil</string>
+		<string>Philodron brasil</string>
+		<string>Zanzibar gem</string>
+		<string>Zanzibar gem</string>
+		<string>Zanzibar gem</string>
+		<string>Money tree</string>
+		<string>Money tree</string>
+		<string>Fiddle leaf figs</string>
+		<string>Fiddle leaf figs</string>
+		<string>Fiddle leaf figs</string>
+		<string>Bird of paradise</string>
+		<string>Bird of paradise</string>
+		<string>Fiddle leaf figs</string>
+		<string>Peperomia obtusifolia</string>
+		<string>Peperomia obtusifolia</string>
+	</array>
+	<key>plants_alexander</key>
+	<array>
+		<string>Money tree</string>
+		<string>Zanzibar gem</string>
+	</array>
+	<key>plants_b</key>
+	<array>
+		<string>Bird of paradise</string>
+		<string>Fiddle leaf figs</string>
+		<string>Fiddle leaf figs</string>
+		<string>Zanzibar gem</string>
+		<string>Bird of paradise</string>
+		<string>Fiddle leaf figs</string>
+		<string>Money tree</string>
+		<string>Peperomia obtusifolia</string>
+		<string>Philodron brasil</string>
+		<string>Fiddle leaf figs</string>
+		<string>Philodron brasil</string>
+	</array>
+	<key>plants_ilya</key>
+	<array/>
+	<key>plants_juliett</key>
+	<array>
+		<string>Fiddle leaf figs</string>
+		<string>Zanzibar gem</string>
+	</array>
+</dict>
+</plist>
